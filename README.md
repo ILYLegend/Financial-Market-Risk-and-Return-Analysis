@@ -1,4 +1,4 @@
-# Financial-Market-Risk-&-Return-Analysis
+# Financial Market Risk & Return Analysis
 
 **By:** Armaan Patel  
 **Date:** August 2025  
