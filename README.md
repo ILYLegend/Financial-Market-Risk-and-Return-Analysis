@@ -100,11 +100,11 @@ The Tableau dashboards allow:
 
 ## Dashboards
 - **Overview Dashboard:** Cumulative performance + risk vs return.
-- <img width="1186" height="683" alt="image" src="https://github.com/user-attachments/assets/49a6adcd-381f-41aa-9ee2-8795e9be9d64" />
+  <img width="1186" height="683" alt="image" src="https://github.com/user-attachments/assets/49a6adcd-381f-41aa-9ee2-8795e9be9d64" />
 - **Portfolio Explorer:** Efficient Frontier, allocation, and portfolio metrics.
-- <img width="1400" height="802" alt="image" src="https://github.com/user-attachments/assets/f135b4e6-2da3-4436-9930-1543a4e46e4e" />
+  <img width="1400" height="802" alt="image" src="https://github.com/user-attachments/assets/f135b4e6-2da3-4436-9930-1543a4e46e4e" />
 - **Curated Portfolio:** KPI metrics and weight breakdown.
-- <img width="1302" height="300" alt="image" src="https://github.com/user-attachments/assets/7d918b38-1b1b-4bbd-8cf5-ab7c12f4a41d" />
+  <img width="1302" height="300" alt="image" src="https://github.com/user-attachments/assets/7d918b38-1b1b-4bbd-8cf5-ab7c12f4a41d" />
 
 ---
 
